@@ -7,5 +7,5 @@ MySQL database project for managing pet adoptions.
 - Screenshots
 
 ##Technologies
--MySQL
--Metabase
+- MySQL
+- Metabase
